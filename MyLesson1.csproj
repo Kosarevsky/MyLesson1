@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="job2\ClassExample.cs" />
+    <Compile Include="job2\IFruit.cs" />
+    <Compile Include="job2\IFruitDescr.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
